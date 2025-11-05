@@ -1,0 +1,11 @@
+student_id,name,age,gender,diet_quality,sleep_hours,part_time_job,study_hours_per_day,extracurricular_participation,exam_score
+1,Ananya,18,F,Good,7,No,5,Yes,88
+2,Karthik,19,M,Average,6,Yes,3,No,72
+3,Sneha,18,F,Excellent,8,No,6,Yes,91
+4,Rajesh,20,M,Poor,5,Yes,2,No,65
+5,Divya,19,F,Good,6,No,4,Yes,80
+6,Pranav,18,M,Average,7,No,5,No,77
+7,Aishwarya,19,F,Good,6,Yes,4,Yes,83
+8,Vignesh,20,M,Excellent,8,No,7,Yes,95
+9,Meena,18,F,Poor,5,No,3,No,70
+10,Hari,19,M,Good,7,Yes,6,Yes,86
